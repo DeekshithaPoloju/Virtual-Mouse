@@ -1,8 +1,8 @@
-# 🖱️ Air Mouse using Hand Gestures
+# 🖱️ Virtual Mouse
 
 ## 📌 Overview
 
-Air Mouse is a computer vision project that allows users to control the mouse cursor using hand gestures through a webcam.
+Virtual Mouse is a computer vision project that allows users to control the mouse cursor using hand gestures through a webcam.
 
 The project uses OpenCV, MediaPipe (via CVZone), and PyAutoGUI to recognize hand gestures and perform mouse operations without touching a physical mouse.
 
