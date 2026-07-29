@@ -35,4 +35,3 @@ class AirHandDetector:
         j
         j
         j
-        j
