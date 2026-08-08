@@ -52,4 +52,3 @@ class GestureDetector:
             fingers[4] == 0
         )
         p
-        p
