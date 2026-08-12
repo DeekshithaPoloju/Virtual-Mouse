@@ -56,4 +56,3 @@ class GestureDetector:
         p
         p
         p
-        p
