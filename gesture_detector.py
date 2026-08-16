@@ -53,4 +53,3 @@ class GestureDetector:
         )
     lambda
     lambdal
-    lambdal
