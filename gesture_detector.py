@@ -61,4 +61,3 @@ class GestureDetector:
     p
     passp
     passpp
-    passp
