@@ -34,5 +34,3 @@ class AirHandDetector:
     passp
     passp
     passp
-    passp
-    
