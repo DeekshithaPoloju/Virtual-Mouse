@@ -28,4 +28,3 @@ cap.release()
 cv2.destroyAllWindows()
 k
 k
-k
