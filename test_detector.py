@@ -29,4 +29,3 @@ cv2.destroyAllWindows()
 k
 k
 k
-k
