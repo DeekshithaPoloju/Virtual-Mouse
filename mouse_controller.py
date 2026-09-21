@@ -70,5 +70,4 @@ class MouseController:
             self.dragging = False
             knknk
             lklklkl
-            khghgfgdy
-            
+            khg
