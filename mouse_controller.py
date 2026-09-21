@@ -69,4 +69,3 @@ class MouseController:
             pyautogui.mouseUp()
             self.dragging = False
             knknk
-            lk
