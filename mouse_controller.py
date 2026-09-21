@@ -68,4 +68,7 @@ class MouseController:
         if self.dragging:
             pyautogui.mouseUp()
             self.dragging = False
+            knknk
+            lklklkl
+            khghgfgdy
             
