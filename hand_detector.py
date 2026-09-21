@@ -35,4 +35,3 @@ class AirHandDetector:
     lambdal
     lambdal
     lambdal
-    l
