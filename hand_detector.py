@@ -31,5 +31,4 @@ class AirHandDetector:
         x2, y2 = p2[0], p2[1]
 
         return math.hypot(x2 - x1, y2 - y1)
-        asdf kkjshdf kjsdfh kdsj akdfjh DAFKHDF KDHSF 
-    
+        asdf kkjshdf kjsdfh kdsj akdfjh DAFKHDF
