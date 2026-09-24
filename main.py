@@ -235,4 +235,3 @@ cv2.destroyAllWindows()
 d
 s
 d
-d
