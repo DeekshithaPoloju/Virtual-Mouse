@@ -53,4 +53,3 @@ class GestureDetector:
         )
     sets
     s
-    s
