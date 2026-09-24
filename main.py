@@ -232,3 +232,11 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 cv2.destroyAllWindows()
+d
+s
+d
+d
+d
+d
+d
+d
