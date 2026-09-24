@@ -234,4 +234,3 @@ cv2.destroyAllWindows()
 cv2.destroyAllWindows()
 d
 s
-d
