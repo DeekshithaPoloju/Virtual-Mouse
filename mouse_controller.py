@@ -70,4 +70,3 @@ class MouseController:
             self.dragging = False
             h
             h
-            h
