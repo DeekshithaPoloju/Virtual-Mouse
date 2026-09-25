@@ -74,5 +74,3 @@ class MouseController:
             h
             hasattrh
             hhh
-            h
-            
