@@ -80,5 +80,3 @@ class MouseController:
             vv
             v
             v
-            v
-            v
