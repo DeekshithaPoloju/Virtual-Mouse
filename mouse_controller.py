@@ -72,4 +72,3 @@ class MouseController:
             i
             i
             i
-            i
