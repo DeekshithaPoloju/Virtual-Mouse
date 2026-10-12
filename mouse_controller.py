@@ -74,4 +74,3 @@ class MouseController:
             d
             d
             d
-            d
